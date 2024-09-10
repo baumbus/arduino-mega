@@ -1,0 +1,11 @@
+(librepcb_library fb3355ac-2c32-4fd2-82cb-ff91a05fb1f3
+ (name "Arduino-mega")
+ (description "")
+ (keywords "")
+ (author "baumbus")
+ (version "0.1")
+ (created 2024-09-10T13:40:37Z)
+ (deprecated false)
+ (url "http://github.com/baumbus/arduino-mega")
+ (manufacturer "")
+)
